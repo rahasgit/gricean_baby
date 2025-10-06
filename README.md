@@ -1,6 +1,6 @@
 # A Gricean Approach for Evaluation of Language Models
 
-This is the code for evaluating language models on the evaluation dataset available at [Hugging Face](https://huggingface.co/datasets/rahaaskari/gricean_baby}), 
+This is the code for evaluating language models on the evaluation dataset available at [Hugging Face](https://huggingface.co/datasets/rahaaskari/gricean_baby), 
 and for reproducing the results of our paper (link to be shared soon). 
 
 The evaluation dataset consists of short conversations, with each having one question and two possible answers, one of which is less pragmatically plausible than the other.
