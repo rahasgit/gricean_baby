@@ -1,7 +1,7 @@
-# A Gricean Approach for Evaluation of Language Models
+# Are BabyLMs Deaf to Gricean Maxims? A Pragmatic Evaluation of Sample-efficient Language Models
 
 This is the code for evaluating language models on the evaluation dataset available at [Hugging Face](https://huggingface.co/datasets/rahaaskari/gricean_baby), 
-and for reproducing the results of our [paper](https://aclanthology.org/2025.babylm-main.4/). 
+and for reproducing the results of our [paper](https://aclanthology.org/2025.babylm-main.4/) that was submitted to the BabyLM workshop in EMNLP 2025 and won the Outstanding Paper Award! :) 
 
 The evaluation dataset consists of short conversations, with each having one question and two possible answers, one of which is less pragmatically plausible than the other.
 The code computes the probability of the model for each answer, conditioned on the question. 
